@@ -11,6 +11,8 @@ Primary goal is to learn JavaScript well. Wish to finish Roling Scopes School. I
 
  Have basic knowledges at JavaScript, CSS, HTML, SQL, Java.
 
+Free online course IT-incubator and project is not finished yet.
+
 Finished free online courses at SoloLearn: JavaScript Tutorial, CSS Fundamentals, HTML Fundamentals, SQL Fundamentals, Java Tutorial
 
 Pre-intermediate English
